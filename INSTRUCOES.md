@@ -62,12 +62,18 @@ Dê preferência ao que está acontecendo agora na região (safra, prazo que ven
 
 ## Identidade visual (já está no modelo; não mudar sem o Alexandre pedir)
 
-Tirada dos posts que já saíram no @santa.rute e da logo vetorizada:
-- Fundo verde-mata escuro, títulos em branco, palavras de destaque em dourado, traço dourado curto sob o título.
-- Rótulo do tema em caixa-alta espaçada dourada (como o "NOSSA ESSÊNCIA" do post da história de Rute).
-- Fonte Poppins; assinatura em Playfair Display itálico no slide final.
-- Logo clara (nome e folhas em branco, engrenagem dourada) no canto de cima; logo colorida original no slide final,
-  sobre fundo creme, com botão verde "Chame no WhatsApp".
+A Santa Rute tem cara própria, diferente do PRUMO (que é escuro, sem serifa, "de sistema").
+Aqui o clima é de tradição, campo e família:
+- Fundo creme de papel, com o símbolo da logo (engrenagem + folhas) bem clarinho em marca-d'água.
+- Títulos em serifa (Playfair Display), verde-escuro; palavras de destaque em verde-folha itálico com sublinhado dourado.
+- Texto corrido em Poppins, cinza-esverdeado.
+- Cores só da logo: verde-folha, dourado da engrenagem, marrom da terra.
+- Logo colorida no canto de cima; faixa verde-folha com filete dourado no rodapé (contato ou número do slide).
+- Números dos slides em serifa grande dourada ("01", "02"...).
+- Slide final em verde-folha, logo clara, botão creme "Chame no WhatsApp" e a assinatura
+  "Tradição que inspira confiança." em itálico.
+- Foto de campo entra em moldura arredondada no alto (como o post de 1 ano), nunca como fundo escurecido.
+- Não usar fundo escuro degradê nem selo em pílula: isso é do PRUMO.
 
 ## Fotos
 
@@ -75,8 +81,8 @@ Na Santa Rute, foto real de campo rende mais que só tipografia (o post de 1 ano
 foi o mais forte de todas as contas). As fotos liberadas para post ficam em `fotos/`.
 - Só entra em `fotos/` foto que o Alexandre aprovou para publicar. Nada de cliente identificável sem autorização,
   placa de carro legível, documento ou criança.
-- Para usar: `"foto": "fotos/nome.jpg"` na capa ou na imagem única. O modelo escurece a foto em verde
-  para o texto ler bem e joga o texto para baixo.
+- Para usar: `"foto": "fotos/nome.jpg"` na capa ou na imagem única. A foto entra numa moldura arredondada
+  no alto e o título vai para baixo dela (título menor, até ~40 caracteres).
 - Sem foto adequada ao tema, use o fundo verde. Não force foto que não tem a ver com o assunto.
 
 ## Formatos
