@@ -1,0 +1,63 @@
+{
+  "pilar": "Água e outorga",
+  "formato": "carrossel",
+  "slides": [
+    {
+      "tipo": "capa",
+      "selo": "Água e outorga",
+      "titulo": "Poço dispensado de outorga ainda tem regra.",
+      "destaque": [
+        "ainda",
+        "tem",
+        "regra"
+      ],
+      "sub": "A lei gaúcha mudou em 2025. Veja o que continua valendo na sua propriedade."
+    },
+    {
+      "tipo": "texto",
+      "num": 1,
+      "titulo": "O que mudou em 2025",
+      "destaque": [
+        "2025"
+      ],
+      "texto": "Alguns poços ficaram dispensados de outorga no RS: os de uso individual com até 0,3 litro por segundo, os de agricultores familiares e os poços comunitários.",
+      "fonte": "Lei estadual 16.316/2025"
+    },
+    {
+      "tipo": "texto",
+      "num": 2,
+      "titulo": "Dispensa não é liberação total",
+      "destaque": [
+        "não"
+      ],
+      "texto": "Mesmo dispensado, o poço precisa estar cadastrado no SIOUT RS. E para furar um poço novo, a autorização antes da perfuração continua obrigatória.",
+      "fonte": "Lei 10.350/1994, art. 31"
+    },
+    {
+      "tipo": "texto",
+      "num": 3,
+      "titulo": "Quem não se encaixa segue com outorga",
+      "destaque": [
+        "outorga"
+      ],
+      "texto": "Vazão maior, empresa ou produtor fora da agricultura familiar: aí a outorga continua sendo exigida. E é esse papel que costuma ser pedido na licença e no financiamento."
+    },
+    {
+      "tipo": "texto",
+      "num": 4,
+      "titulo": "Como saber o seu caso",
+      "destaque": [
+        "seu",
+        "caso"
+      ],
+      "texto": "A gente confere a vazão do poço, o enquadramento da propriedade e o cadastro no SIOUT. Aí você sabe se precisa de outorga, de dispensa ou só de cadastro."
+    },
+    {
+      "tipo": "cta",
+      "titulo": "Seu poço está em dia?",
+      "texto": "Mande o município e para que usa a água. A gente diz o que o seu poço precisa.",
+      "botao": "Chame no WhatsApp"
+    }
+  ],
+  "legenda": "Poço dispensado de outorga ainda tem regra.\n\nDesde julho de 2025, a Lei estadual 16.316 dispensou de outorga alguns poços no Rio Grande do Sul: os de uso individual com até 0,3 litro por segundo, os de agricultores familiares e os poços comunitários.\n\nMuita gente entendeu isso como \"não preciso fazer mais nada\". Não é bem assim.\n\nMesmo dispensado, o poço precisa estar cadastrado no SIOUT RS. E quem vai furar poço novo continua precisando da autorização antes da perfuração.\n\nQuem tem vazão maior, é empresa ou não se enquadra como agricultor familiar segue precisando de outorga. E é esse documento que costuma ser pedido na licença ambiental e no financiamento.\n\nNa dúvida, a gente confere o seu caso: vazão, enquadramento e cadastro.\n\nChame no WhatsApp (55) 99723-8982 e mande o município e para que você usa a água.\n\n#outorgadeagua #pocoartesiano #SIOUT #produtorrural #licenciamentoambiental #trespassos"
+}
