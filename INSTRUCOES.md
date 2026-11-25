@@ -68,7 +68,7 @@ Aqui o clima é de tradição, campo e família:
 - Títulos em serifa (Playfair Display), verde-escuro; palavras de destaque em verde-folha itálico com sublinhado dourado.
 - Texto corrido em Poppins, cinza-esverdeado.
 - Cores só da logo: verde-folha, dourado da engrenagem, marrom da terra.
-- Logo colorida no canto de cima; faixa verde-folha com filete dourado no rodapé (contato ou número do slide).
+- Logo colorida no canto de cima, em tamanho grande (185 px de altura; aumentada a pedido do Alexandre em 25/11/2026); faixa verde-folha com filete dourado no rodapé (contato ou número do slide).
 - Números dos slides em serifa grande dourada ("01", "02"...).
 - Slide final em verde-folha, logo clara, botão creme "Chame no WhatsApp" e a assinatura
   "Tradição que inspira confiança." em itálico.

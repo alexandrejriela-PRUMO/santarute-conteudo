@@ -71,7 +71,7 @@ def simbolo(alvo_h, cor, opacidade):
     return out
 
 
-LOGO_COR = logo("cor", 118)
+LOGO_COR = logo("cor", 185)
 
 
 # ---------- fundo ----------
