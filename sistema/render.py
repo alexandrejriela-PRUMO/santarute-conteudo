@@ -107,8 +107,9 @@ def faixa(d, esquerda, direita, cor_dir=OURO_CLARO):
     d.text((W - 70 - d.textlength(direita, font=fb), y), direita, font=fb, fill=cor_dir)
 
 
-def por_logo(im, x=70, y=64):
-    im.alpha_composite(LOGO_COR, (x, y))
+def por_logo(im, x=70, y=64, alvo_h=None):
+    """Logo colorida no canto. `alvo_h` (opcional, no slide: "logo_h") aumenta ou diminui só naquele slide."""
+    im.alpha_composite(logo("cor", alvo_h) if alvo_h else LOGO_COR, (x, y))
 
 
 def foto_moldura(im, caminho, caixa, raio=36):
@@ -267,7 +268,7 @@ def slide_cta(s, n, total):
 
 def slide_unico(s, n, total):
     """Imagem única: frase forte em serifa + faixa com o WhatsApp."""
-    im = papel(); marca_dagua(im); por_logo(im); d = ImageDraw.Draw(im)
+    im = papel(); marca_dagua(im); por_logo(im, alvo_h=s.get("logo_h")); d = ImageDraw.Draw(im)
     tam = 100
     if s.get("foto"):
         foto_moldura(im, s["foto"], (70, 230, W - 70, 760))
