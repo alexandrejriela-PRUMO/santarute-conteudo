@@ -12,3 +12,4 @@ As linhas marcadas "(manual)" são posts feitos antes da automação: servem só
 | 2026-09-20 | Imagem (manual) | Bastidores e casos | Dia do Gaúcho | https://www.instagram.com/p/Ddg-UzzT5TD/ |
 | 2026-11-14 | Imagem (manual) | Bastidores e casos | A história de Rute | https://www.instagram.com/p/DfvC7i6zEAW/ |
 | 2026-11-23 | Carrossel | Água e outorga | Poço dispensado de outorga ainda tem regra (Lei 16.316/2025: cadastro SIOUT e autorização de perfuração) | https://www.instagram.com/p/DgFrkvKF0E3/ |
+| 2026-11-25 | Imagem | Licenciamento | Renovação de licença: pedir 120 dias antes (Lei 15.190/2025, art. 7º; Portaria Fepam 617/2026) | https://www.instagram.com/p/DgK8iadF6jw/ |
